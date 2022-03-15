@@ -1,27 +1,20 @@
 {
-  "name": "simple-discordjs-dashboard",
+  "name": "rafikibot-dashboard",
   "version": "1.0.0",
-  "description": "A simple discord bot dashboard which focuses on the dashboard itself.",
+  "description": "Rafiki Discord Bot Dashboard",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "nodemon index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MrAugu/discord-bot-dashboard.git"
-  },
+  
   "keywords": [
     "discord.js",
     "bot",
     "dashboard"
   ],
-  "author": "MrAugu#7917",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/MrAugu/discord-bot-dashboard/issues"
-  },
-  "homepage": "https://github.com/MrAugu/discord-bot-dashboard#readme",
+  "author": "Mattitsu",
+  
   "dependencies": {
     "body-parser": "^1.19.0",
     "discord.js": "^13.1.0",
